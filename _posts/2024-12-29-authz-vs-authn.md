@@ -44,7 +44,7 @@ In **attribute-based access control (ABAC)**, users are assigned permissions ba
 
 In **rule-based access control** (also abbreviated as RBAC), actions are allowed or denied based on a set of rules that apply to all users, irrespective of their role.
 
-#### External References
+## External References
 
 [Authn vs. authz: How are they different?](https://www.cloudflare.com/learning/access-management/authn-vs-authz/)
 
