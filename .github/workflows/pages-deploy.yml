@@ -1,11 +1,8 @@
 name: "Build and Deploy"
 on:
-  pull_request:
+  push:
     branches:
-      - main
-      - master
-    types:
-      - closed # Triggers only when the PR is merged (closed)
+      - main # Only trigger on push to main branch
     paths-ignore:
       - .gitignore
       - README.md
