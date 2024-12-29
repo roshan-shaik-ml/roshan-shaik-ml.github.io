@@ -6,7 +6,10 @@ on:
       - master
     types:
       - closed # Triggers only when the PR is merged (closed)
-
+    paths-ignore:
+      - .gitignore
+      - README.md
+      - LICENSE
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
