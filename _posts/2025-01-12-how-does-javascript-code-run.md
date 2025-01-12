@@ -1,6 +1,6 @@
 ---
 title: How Does JavaScript Code Run?
-date: 2025-01-12 22:40:46
+date: 2025-01-12 22:40:46 +0530
 categories: [javascript]
 tags: [javascript, deep-dive]     # TAG names should always be lowercase
 ---
