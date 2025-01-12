@@ -1,8 +1,7 @@
 ---
 title: How Does JavaScript Code Run?
 date: 2025-01-12 22:40:46 +0530
-description: A short article for understanding Execution Context of Javascript
-image: [Execution Context](/assets/images/how-does-javascript-code-run/Execution%20Context%20JavaScript.svg)   
+image: https://imgur.com/09aa0bcb-9445-4ada-b765-184e60d9cefd 
 categories: [javascript]
 tags: [javascript, deep-dive] # TAG names should always be lowercase
 ---
