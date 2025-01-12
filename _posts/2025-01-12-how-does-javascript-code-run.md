@@ -1,7 +1,7 @@
 ---
 title: How Does JavaScript Code Run?
 date: 2025-01-12 22:40:46 +0530
-image: https://imgur.com/09aa0bcb-9445-4ada-b765-184e60d9cefd 
+image: https://i.imgur.com/Mg35is5.jpeg
 categories: [javascript]
 tags: [javascript, deep-dive] # TAG names should always be lowercase
 ---
