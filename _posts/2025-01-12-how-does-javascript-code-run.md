@@ -22,7 +22,7 @@ JavaScript is synchronous single threaded language.
 ![Execution Context JavaScript](/assets/images/how-does-javascript-code-run/Execution%20Context%20JavaScript.svg)
 
 
-Let's take a sample code:
+**Let's take a sample code to understand it !!!**
 
 ```javascript
 var n = 2;
@@ -52,7 +52,7 @@ var square4 = sqaure(4)
 **Code Execution Phase**  **=>**  Running the code line-by-line within the execution context, resolving variables, and invoking functions after the memory creation phase
 
 ```javascript
-var n = 2; // Stores the value
+var n = 2;
 function square(num) {
   var ans = num * num;
   return num;
@@ -108,5 +108,11 @@ var square4 = sqaure(4)
 
 - After Line 7 => The entire program's execution context is deleted.
 
+That’s exactly how the entire code snippet runs in JavaScript! Kudos to you for understanding the fascinating process of how JavaScript executes code—bringing ideas to life, one line at a time.
+
+### External References
+[freeCodeCamp](https://www.freecodecamp.org/news/execution-context-how-javascript-works-behind-the-scenes/)
+
+### Hope you had a fun read ! Stay Tuned For More Articles.
 
 
